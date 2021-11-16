@@ -1,0 +1,27 @@
+{
+  "editor.formatOnSave": false, // 停用預設的存擋時格式化
+  // "editor.codeActionsOnSave": {
+  //     "source.fixAll.eslint": true
+  // }
+  "[javascript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+    // "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    // "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // "editor.defaultFormatter": "vscode.json-language-features",
+  },
+  "[jsonc]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // "editor.defaultFormatter": "vscode.json-language-features",
+  },
+  "files.associations": {
+    // ".prettierrc": "jsonc"
+    // .prettierrc 不支援 jsonc
+  }
+}
