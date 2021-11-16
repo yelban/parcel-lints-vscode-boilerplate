@@ -80,9 +80,9 @@ h1 {
     /* outline: none; */
 }
 
-/* .todo-list {
-    list-style: 0;
-} */
+.todo-list {
+    /* list-style: 0; */
+}
 
 .todo-list li {
     display: flex;
