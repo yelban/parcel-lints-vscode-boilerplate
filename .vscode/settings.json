@@ -22,6 +22,7 @@
   },
   "files.associations": {
     ".postcssrc": "jsonc"
+    // postcss-cli 不支援 jsonc 格式 .postcssrc
     // ".prettierrc": "jsonc"
     // .prettierrc 不支援 jsonc
   },
