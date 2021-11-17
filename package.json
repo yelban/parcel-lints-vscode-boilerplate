@@ -1,5 +1,5 @@
 {
-  "name": "vscode-parcel-lints-boilerplate",
+  "name": "parcel-lints-vscode-boilerplate",
   "version": "1.0.0",
   "description": "",
   "source": "src/public/index.html",
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/yelban/vscode-parcel-lints-boilerplate.git"
   },
-  "keywords": [],
+  "keywords": ["Parcel", "ESLint", "StyleLint", "PostCSS", "LESS", "SCSS"],
   "author": "Yelban",
   "license": "ISC",
   "bugs": {
