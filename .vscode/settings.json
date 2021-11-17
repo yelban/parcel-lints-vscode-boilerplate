@@ -21,6 +21,7 @@
     // "editor.defaultFormatter": "vscode.json-language-features",
   },
   "files.associations": {
+    ".postcssrc": "jsonc"
     // ".prettierrc": "jsonc"
     // .prettierrc 不支援 jsonc
   },
