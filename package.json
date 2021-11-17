@@ -12,15 +12,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yelban/vscode-parcel-lints-boilerplate.git"
+    "url": "git+https://github.com/yelban/parcel-lints-vscode-boilerplate.git"
   },
-  "keywords": ["Parcel", "ESLint", "StyleLint", "PostCSS", "LESS", "SCSS"],
+  "keywords": [
+    "Parcel",
+    "ESLint",
+    "StyleLint",
+    "PostCSS",
+    "LESS",
+    "SCSS"
+  ],
   "author": "Yelban",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yelban/vscode-parcel-lints-boilerplate/issues"
+    "url": "https://github.com/yelban/parcel-lints-vscode-boilerplate/issues"
   },
-  "homepage": "https://github.com/yelban/vscode-parcel-lints-boilerplate#readme",
+  "homepage": "https://github.com/yelban/parcel-lints-vscode-boilerplate#readme",
   "devDependencies": {
     "@parcel/transformer-less": "^2.0.1",
     "@parcel/transformer-sass": "^2.0.1",
