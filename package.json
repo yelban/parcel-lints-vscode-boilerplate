@@ -39,6 +39,7 @@
     "eslint-plugin-import": "^2.25.3",
     "parcel": "^2.0.1",
     "stylelint-config-standard-scss": "^2.0.1",
-    "stylelint-order": "^5.0.0"
+    "stylelint-order": "^5.0.0",
+    "tailwindcss": "^2.2.19"
   }
 }
